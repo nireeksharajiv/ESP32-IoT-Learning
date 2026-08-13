@@ -4,7 +4,6 @@
 Blink an external LED connected to an ESP32 using GPIO2.
 
 ## Components Used
-
 - ESP32 Dev Board (38-pin)
 - Breadboard
 - LED
@@ -17,19 +16,16 @@ Blink an external LED connected to an ESP32 using GPIO2.
 | ESP32 | Component |
 |-------|-----------|
 | GPIO2 | 220Ω Resistor → LED Anode (+) |
-| GND | LED Cathode (-) |
+| GND   | LED Cathode (-) |
 
-## How it Works
-
+## How It Works
 The ESP32 turns GPIO2 HIGH for one second and LOW for one second, causing the LED to blink continuously.
 
 ## Folder Structure
-
 ```
 01-LED-Blink/
-├── LED_Blink/
-│   └── LED_Blink.ino
 ├── README.md
+├── LED_Blink.ino
 ├── circuit.jpg
-└── output.gif (optional)
+└── blink_demo.mp4
 ```

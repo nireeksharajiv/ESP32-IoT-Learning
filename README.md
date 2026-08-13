@@ -1,18 +1,18 @@
 # ESP32 IoT Learning
 
-Hands-on ESP32 projects built while learning embedded systems, electronics and IoT — from basics to advanced applications.
+Hands-on ESP32 projects built while learning embedded systems, electronics, and IoT — from basic GPIO programming to real-world applications.
 
-Each project includes source code, circuit diagrams, component list, explanation and images/output demo where applicable.
+Each project includes source code, circuit image, component list, wiring, explanation, and output demo.
 
 ---
 
 ## Hardware & Components
 
-**Platform:** ESP32 DevKit V1 (38-pin)
+**Board:** ESP32 DevKit V1 (38-pin)
 
 **Core:** Breadboard, power supply module, jumper wires, LEDs, push buttons, resistors
 
-**Sensors:** DHT11, LDR, HC-SR04, IR sensor, soil moisture, rain sensor
+**Sensors:** DHT11, LDR, HC-SR04, IR, soil moisture, rain sensor
 
 **Output:** Buzzer (active/passive), servo motor, relay module, OLED, 16×2 LCD (I2C)
 
@@ -25,13 +25,12 @@ Each project includes source code, circuit diagrams, component list, explanation
 ```
 ESP32-IoT-Learning
 ├── README.md
-├── Components/
-├── 01-Blinking-LED/
+├── LICENSE
+├── 01-LED-Blink/
 │   ├── README.md
-│   ├── Blinking_LED.ino
+│   ├── LED_Blink.ino
 │   ├── circuit.jpg
-│   └── output.gif
-├── 02-Push-Button/
+│   └── blink_demo.mp4
 └── ...
 ```
 
@@ -39,17 +38,22 @@ ESP32-IoT-Learning
 
 ## Projects
 
-1. Blinking LED
+| No. | Project | Status |
+|-----|---------|--------|
+| 01 | LED Blink | ✅ Completed |
+
+> More projects (push button, PWM, sensors, Wi-Fi/Bluetooth, IoT dashboard) coming soon.
 
 ---
 
 ## Goals
 
-- Master GPIO programming and digital/analog I/O
+- Master GPIO, PWM, ADC, and interrupts
 - Interface sensors and actuators
-- Build Wi-Fi-enabled IoT projects
-- Explore ESP32 communication protocols
-- Build complete real-world embedded systems
+- Build Wi-Fi/Bluetooth-enabled IoT projects
+- Develop complete embedded systems applications
+
+---
 
 ## Author
 

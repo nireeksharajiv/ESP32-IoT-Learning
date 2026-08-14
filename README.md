@@ -21,19 +21,23 @@ Each project includes source code, circuit image, component list, wiring, explan
 ---
 
 ## Repository Structure
-
 ```
 ESP32-IoT-Learning
+│
 ├── README.md
-├── LICENSE
-├── 01-LED-Blink/
-│   ├── README.md
-│   ├── LED_Blink.ino
+│
+├── 01-Blinking-LED
+│   ├── Blinking_LED.ino
 │   ├── circuit.jpg
-│   └── blink_demo.mp4
-└── ...
-```
-
+│   ├── demo.mp4
+│   └── README.md
+│
+└── 02-Smart-Traffic-Light-with-Pedestrian-Crossing
+    ├── Smart_Traffic_Light.ino
+    ├── circuit.jpg
+    ├── demo.mp4
+    └── README.md
+  ```
 ---
 
 ## Projects
@@ -41,6 +45,7 @@ ESP32-IoT-Learning
 | No. | Project | Status |
 |-----|---------|--------|
 | 01 | LED Blink | ✅ Completed |
+| 02 | Smart-Traffic-Light-with-Pedestrian-Crossing | ✅ Completed |
 
 > More projects (push button, PWM, sensors, Wi-Fi/Bluetooth, IoT dashboard) coming soon.
 

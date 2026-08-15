@@ -32,8 +32,14 @@ ESP32-IoT-Learning
 │   ├── demo.mp4
 │   └── README.md
 │
-└── 02-Smart-Traffic-Light-with-Pedestrian-Crossing
-    ├── Smart_Traffic_Light.ino
+├── 02-Smart-Traffic-Light-with-Pedestrian-Crossing
+│   ├── Smart_Traffic_Light.ino
+│   ├── circuit.jpg
+│   ├── demo.mp4
+│   └── README.md
+│
+└── 03-Analog-Level-Meter
+    ├── Analog_Level_Meter.ino
     ├── circuit.jpg
     ├── demo.mp4
     └── README.md
@@ -46,6 +52,7 @@ ESP32-IoT-Learning
 |-----|---------|--------|
 | 01 | LED Blink | ✅ Completed |
 | 02 | Smart-Traffic-Light-with-Pedestrian-Crossing | ✅ Completed |
+| 03 | Analog-Level-Meter | ✅ Completed |
 
 > More projects (push button, PWM, sensors, Wi-Fi/Bluetooth, IoT dashboard) coming soon.
 

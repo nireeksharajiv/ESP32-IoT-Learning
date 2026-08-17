@@ -44,8 +44,14 @@ ESP32-IoT-Learning
 │   ├── demo.mp4
 │   └── README.md
 │
-└── 04-Electronic-Piano
-    ├── Electronic_Piano.ino
+├── 04-Electronic-Piano
+│   ├── Electronic_Piano.ino
+│   ├── circuit.jpg
+│   ├── demo.mp4
+│   └── README.md
+│
+└── 05-Reaction-Time-Game
+    ├── Reaction_Time_Game.ino
     ├── circuit.jpg
     ├── demo.mp4
     └── README.md
@@ -60,6 +66,7 @@ ESP32-IoT-Learning
 | 02 | Smart-Traffic-Light-with-Pedestrian-Crossing | ✅ Completed |
 | 03 | Analog-Level-Meter | ✅ Completed |
 | 04 | Electronic-Piano | ✅ Completed |
+| 05 | Reaction-Time-Game | ✅ Completed |
 
 > More projects (push button, PWM, sensors, Wi-Fi/Bluetooth, IoT dashboard) coming soon.
 

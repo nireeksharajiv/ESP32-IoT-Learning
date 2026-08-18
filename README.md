@@ -75,6 +75,7 @@ ESP32-IoT-Learning
 | 03 | Analog-Level-Meter | ✅ Completed |
 | 04 | Electronic-Piano | ✅ Completed |
 | 05 | Reaction-Time-Game | ✅ Completed |
+| 06 | DHT11-Temperature-Humidity | ✅ Completed |
 
 > More projects (push button, PWM, sensors, Wi-Fi/Bluetooth, IoT dashboard) coming soon.
 

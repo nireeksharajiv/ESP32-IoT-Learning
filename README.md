@@ -50,9 +50,17 @@ ESP32-IoT-Learning
 │   ├── demo.mp4
 │   └── README.md
 │
-└── 05-Reaction-Time-Game
-    ├── Reaction_Time_Game.ino
+├── 05-Reaction-Time-Game
+│   ├── Reaction_Time_Game.ino
+│   ├── circuit.jpg
+│   ├── demo.mp4
+│   └── README.md
+│
+└── 06-DHT11-Temperature-Humidity-Monitor
+    ├── DHT11_Temperature_Humidity.ino
     ├── circuit.jpg
+    ├── normal-temperature.jpg
+    ├── temperature-hike.jpg
     ├── demo.mp4
     └── README.md
   ```

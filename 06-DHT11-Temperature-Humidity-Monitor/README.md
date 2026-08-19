@@ -68,3 +68,12 @@ The temperature reading increased when a nearby heat source was brought close to
 * `millis()` for elapsed time
 * Serial Monitor
 * Real-world sensor testing
+
+Enhancements:
+Possible improvements for this project:
+1.Add an I2C LCD/OLED display to show temperature and humidity without using the Serial Monitor.
+2.Add a real-time clock (RTC) to record the actual date and time instead of only elapsed time.
+3.Add Wi-Fi connectivity to send sensor readings to a web dashboard or cloud platform.
+4.Store temperature and humidity readings for data logging and analysis.
+5.Add threshold-based temperature or humidity alerts.
+6.Visualize sensor readings using graphs and charts.
